@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "nrwl.angular-console",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "github.vscode-pull-request-github",
+    "github.vscode-github-actions",
+    "lokalise.i18n-ally",
+    "antfu.iconify",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "vue.volar"
+  ]
+}

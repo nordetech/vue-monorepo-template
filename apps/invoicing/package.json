@@ -1,0 +1,30 @@
+{
+  "name": "@norde/invoicing",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@norde/ui": "workspace:*",
+    "@tanstack/vue-query": "^5.0.4",
+    "@tanstack/vue-table": "^8.10.7",
+    "@vueuse/core": "^10.5.0",
+    "vee-validate": "^4.11.8",
+    "vue": "^3.3.6",
+    "vue-router": "4",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.2.2",
+    "vite": "^4.5.0",
+    "vue-tsc": "^1.8.19"
+  }
+}
